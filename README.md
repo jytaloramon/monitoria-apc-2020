@@ -3,7 +3,7 @@
 
 **Universidade Federal de Alagoas - UFAL**
 
-**Disciplina: Algoritmo e Programação de Computadores**
+**Disciplina: Algoritmo e Programação de Computadores (APC)**
 
 **Orientador: 
 [Tácito Neves](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4220339Z2)**
